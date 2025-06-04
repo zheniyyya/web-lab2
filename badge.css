@@ -43,6 +43,8 @@
     height: 105px;
     background-color: #4D01DA;
 }
+
+
 @media print {
     * {
         -webkit-print-color-adjust: exact; /* Chrome, Safari */
